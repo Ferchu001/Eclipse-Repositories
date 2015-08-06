@@ -1,0 +1,11 @@
+com/hcsinergia/delver/model/Tambo.class
+com/hcsinergia/delver/model/Trasvase.class
+com/hcsinergia/delver/model/Cip.class
+com/hcsinergia/delver/model/Gps.class
+com/hcsinergia/delver/model/DatoCrudo.class
+com/hcsinergia/delver/model/rest/Criteria.class
+com/hcsinergia/delver/model/BaseEntity.class
+com/hcsinergia/delver/model/rest/Response.class
+com/hcsinergia/delver/model/Recorrido.class
+com/hcsinergia/delver/model/Info.class
+com/hcsinergia/delver/model/AuditableEntity.class

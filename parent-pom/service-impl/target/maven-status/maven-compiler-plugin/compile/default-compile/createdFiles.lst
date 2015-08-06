@@ -1,0 +1,9 @@
+com/hcsinergia/delver/service/impl/GpsServiceImpl.class
+com/hcsinergia/delver/service/impl/RecorridoServiceImpl.class
+com/hcsinergia/delver/service/impl/DatoCrudoServiceImpl.class
+com/hcsinergia/delver/security/impl/SecurityServiceImpl.class
+com/hcsinergia/delver/service/impl/TamboServiceImpl.class
+com/hcsinergia/delver/service/impl/DispatcherSocketServiceImpl.class
+com/hcsinergia/delver/service/impl/TrasvaseServiceImpl.class
+com/hcsinergia/delver/service/impl/CipServiceImpl.class
+com/hcsinergia/delver/service/impl/InfoServiceImpl.class
